@@ -1,3 +1,5 @@
+package Interest;
+
 import java.util.Scanner;
 
 public class Challenge_Two{

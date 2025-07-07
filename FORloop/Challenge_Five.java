@@ -1,3 +1,5 @@
+package FORloop;
+
 import java.util.Scanner;
 
 public class Challenge_Five {

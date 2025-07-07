@@ -1,3 +1,5 @@
+package NestedIF;
+
 import java.util.Scanner;
 
 public class Challenge_Three {

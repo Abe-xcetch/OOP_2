@@ -1,3 +1,5 @@
+package WHILEloop;
+
 import java.util.Random;
 
 public class Challenge_Six {

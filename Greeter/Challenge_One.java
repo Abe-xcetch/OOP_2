@@ -1,4 +1,4 @@
-// Adds message to the screen
+package Greeter;// Adds message to the screen
 
 public class Challenge_One {
 
